@@ -1,0 +1,12 @@
+.footer {
+  color: #545454;
+}
+
+.footer__copyright {
+  margin-left: 18px;
+  margin-top: 67px;
+  font-family: "InterRegular", sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 400;
+}
