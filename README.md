@@ -1,21 +1,38 @@
 # Project 3: Around The U.S.
 
-### Overview  
+### Overview
 
-* Intro  
-* Figma  
-* Images  
-  
+- Intro
+- Figma
+- Images
+- Project Notes
+- System Requirements
+- Improvements
+
 **Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
-  
+
+This project is made so all the elements are displayed correctly on popular screen sizes. The project also requires an understanding of Figma and grid elements. While definitely more challenging than the first couple of projects, finishing this sprint actually felt like an major milestone on my way to becoming a software engineer.
+
+**Figma**
+
+- [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
+
 **Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+[Project Images](./demo_images/ "Sample Photos")
+
+**Project Notes**
+[Project Link](https://khunter101.github.io/se_project_aroundtheus/ "Around the US")
+
+This project was first completed by Kristopher Hunter on 11/12/2024. Listed below is the version history:
+
+1. Version 3.1 (Initial Project Submission)
+2.
+
+**System Requirements**
+Windows 10 or later, (maybe) MacOS
+
+**Improvements**
+
+1. Link each photo to an external site
+2. Make the photos more interactive with CSS
+3. TBD
