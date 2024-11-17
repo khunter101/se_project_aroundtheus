@@ -12,7 +12,7 @@
 }
 
 .profile__edit-button {
-  background: transparent url(../images/edit\ icon.svg) center no-repeat;
+  background: transparent url(../images/edit_icon.svg) center no-repeat;
   height: 24px;
   width: 24px;
   grid-area: button;
@@ -40,7 +40,7 @@
 }
 
 .profile__title {
-  font-family: "InterMedium", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 42px;
   line-height: 48px;
   font-weight: 500;
@@ -52,7 +52,7 @@
 }
 
 .profile__description {
-  font-family: "InterRegular", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 18px;
   line-height: 22px;
   font-weight: 400;

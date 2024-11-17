@@ -3,10 +3,17 @@
 }
 
 .footer__copyright {
-  margin-left: 18px;
-  margin-top: 67px;
-  font-family: "InterRegular", sans-serif;
+  margin: 67px 18px 36px 0px;
+  font-family: "Inter", sans-serif;
   font-size: 18px;
   line-height: 1.2;
   font-weight: 400;
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    display: flex;
+    justify-content: center;
+    max-width: 282px;
+  }
 }

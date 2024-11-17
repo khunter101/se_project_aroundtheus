@@ -11,7 +11,7 @@
 }
 
 .card__title {
-  font-family: "InterBlack", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 24px;
   line-height: 1.2;
   font-weight: 900;
@@ -34,8 +34,13 @@
 }
 
 .card__heart {
-  background: transparent url(../images/like\ inactive.svg) center no-repeat;
+  background: transparent url(../images/like_inactive.svg) center no-repeat;
   width: 21px;
   height: 18px;
   border: none;
+}
+
+.card__heart:hover {
+  opacity: 0.6;
+  cursor: pointer;
 }

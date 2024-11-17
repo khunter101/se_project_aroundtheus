@@ -36,3 +36,8 @@ Windows 10 or later, (maybe) MacOS
 1. Link each photo to an external site
 2. Make the photos more interactive with CSS
 3. TBD
+
+**Project Video Link**
+[Project Video](./demo_video/ "Project Demo Video")
+
+Video will be linked after the next iteration :)
