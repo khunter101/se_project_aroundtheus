@@ -38,6 +38,4 @@ Windows 10 or later, (maybe) MacOS
 3. TBD
 
 **Project Video Link**
-[Project Video](./demo_video/ "Project Demo Video")
-
-Video will be linked after the next iteration :)
+https://1drv.ms/v/c/159f0015e2ab2848/Ec4oblJKcDZEoqe8iqxao64BULQvDavO9b8laGSN3jtJmQ?e=kmYHWM
