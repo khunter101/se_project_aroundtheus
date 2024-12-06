@@ -136,6 +136,7 @@
   .profile__title {
     font-size: 22px;
     line-height: 1.2;
+    max-width: 200px;
   }
 
   .profile__edit-button {
@@ -146,6 +147,7 @@
   .profile__description {
     font-size: 14px;
     line-height: 1.2;
+    max-width: 200px;
   }
 
   .profile__add-button {
