@@ -1,0 +1,104 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  display: flex;
+  padding: 19px;
+}
+
+.modal__container {
+  position: relative;
+  background-color: #fff;
+  margin: auto;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: black;
+  width: 430px;
+  height: 330px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.modal__form {
+  max-width: 430px;
+  max-height: 220px;
+}
+
+.modal__close {
+  background-image: url("../images/modal_close.svg");
+  border: none;
+  background-color: transparent;
+  height: 40px;
+  width: 40px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  bottom: calc(100% + 5px);
+  left: calc(100% + 5px);
+  cursor: pointer;
+}
+
+.modal__heading {
+  font-family: "Inter", sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 30px;
+  color: black;
+  margin: 36px 36px 54px;
+  width: 358px;
+  height: 24px;
+}
+
+.modal__container-title {
+  width: 358px;
+  height: 28px;
+  margin: 0 36px 30px;
+  padding: 0;
+  border-color: transparent;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-top-width: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+}
+
+.modal__container-description {
+  width: 358px;
+  height: 28px;
+  margin: 0 36px;
+  border-color: transparent;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-top-width: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+}
+
+.modal__button {
+  width: 358px;
+  height: 51px;
+  border-radius: 2px;
+  background-color: black;
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  justify-content: center;
+  padding: 14px 0 19px;
+  margin: 46px 36px 36px;
+}
